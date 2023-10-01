@@ -8,7 +8,7 @@ default:
   AWS_SESSION_TOKEN: session_token (Used to generate Redshift credentials)
   AWS_REGION: region
   # APIS
-  MINIO_API: http://localhost:7000
+  MINIO_APIL: http://localhost:7000
   # Azure
   AZURE_CLIENT_ID: "{{ env_var('AZURE_CLIENT_ID') }}"
   AZURE_CLIENT_SECRET: "{{ env_var('AZURE_CLIENT_SECRET') }}"

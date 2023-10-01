@@ -1,0 +1,10 @@
+block_type: data_loader
+color: null
+configuration: null
+description: A loader for loading csv files.
+language: python
+name: CSV Loader
+pipeline: {}
+tags: []
+user:
+  username: admin

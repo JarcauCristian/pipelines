@@ -1,0 +1,10 @@
+block_type: data_loader
+color: null
+configuration: null
+description: Loads the config data from the config file.
+language: python
+name: Load Config
+pipeline: {}
+tags: []
+user:
+  username: admin

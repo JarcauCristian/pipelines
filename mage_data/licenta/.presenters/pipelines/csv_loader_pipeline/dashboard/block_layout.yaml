@@ -1,0 +1,8 @@
+blocks:
+  red_hill:
+    name: red hill
+    type: chart
+    uuid: red_hill
+layout:
+- - block_uuid: red_hill
+    width: 1
