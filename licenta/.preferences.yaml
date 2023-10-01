@@ -1,0 +1,14 @@
+sync_config:
+  access_token_secret_name: mage_git_access_token
+  auth_type: ssh
+  branch: main
+  email: stefan.jarcau@student.unitbv.ro
+  remote_repo_link: git@github.com:JarcauCristian/pipelines.git
+  repo_path: /home/src
+  ssh_private_key_secret_name: mage_git_ssh_private_key_b64
+  ssh_public_key_secret_name: mage_git_ssh_public_key_b64
+  sync_on_pipeline_run: true
+  sync_on_start: true
+  sync_submodules: true
+  type: null
+  username: JarcauCristian
